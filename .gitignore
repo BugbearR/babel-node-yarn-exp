@@ -1,0 +1,8 @@
+# Local
+.vscode
+
+# External
+/node_modules
+
+# Output
+/dist
